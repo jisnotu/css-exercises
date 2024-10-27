@@ -8,6 +8,11 @@
   font-size: 36px;
 }
 
-.bigger-font {
+.bigger-font, #fourth {
   font-size: 24px;
+}
+
+#fourth {
+  background-color: hsl(120, 64%, 68%);
+  font-weight: bold;
 }
