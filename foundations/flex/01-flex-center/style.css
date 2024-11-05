@@ -5,6 +5,8 @@
   height: 300px;
   /* below this is what I modified */
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .box {
@@ -14,6 +16,4 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
-  /* below this is what I modified */
-  margin: auto;
 }
