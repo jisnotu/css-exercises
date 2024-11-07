@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center; /* I guess this isn't strictly necessary because the default stretch and the padding makes it effectively centered, but making it explicit here. */
-  padding: 16px;
+  padding: 8px;
 }
 
 .profile-image {
