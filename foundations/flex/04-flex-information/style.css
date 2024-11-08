@@ -26,3 +26,12 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.card-container {
+  display: flex;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+}
