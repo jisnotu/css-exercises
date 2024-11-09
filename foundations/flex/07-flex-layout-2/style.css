@@ -33,6 +33,9 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+
+  flex-shrink: 0;
+  padding: 16px;
 }
 
 .card {
@@ -45,4 +48,20 @@ body {
 .content {
   display: flex;
   flex: 1 0 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
 }
